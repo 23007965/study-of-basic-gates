@@ -69,7 +69,16 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: P PARTHIBAN
  RegisterNumber: 212223230145 
 
- 
+module pro(a,b,c,d,e,x,y,z);
+input a,b;
+output c,d,e,x,y,z;
+and(c,a,b);
+or(d,a,b);
+xor(e,a,b);
+nand(x,a,b);
+nor(y,a,b);
+xnor(z,a,b);
+endmodule
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-03-14 at 16 25 00_6db0602f](https://github.com/23007965/study-of-basic-gates/assets/138971238/b4c9259e-a40b-4ad5-9d8f-3675677dd232)
 
