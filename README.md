@@ -81,12 +81,14 @@ xnor(z,a,b);
 endmodule
 ```
 **Logic symbol & Truthtable**
+
 ![WhatsApp Image 2024-03-14 at 16 25 00_6db0602f](https://github.com/23007965/study-of-basic-gates/assets/138971238/b4c9259e-a40b-4ad5-9d8f-3675677dd232)
 
 **RTL realization Output:** 
+
 ![WhatsApp Image 2024-03-14 at 16 25 00_e31b01f7](https://github.com/23007965/study-of-basic-gates/assets/138971238/4fc932ee-c2f0-4cd4-97d1-61a6824a9591)
 
 
 **Result:**
-
+Hence ouput is got
 
