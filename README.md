@@ -65,10 +65,10 @@ Y= A⊕B
 **PROGRAM**
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
+```
  Developed by: P PARTHIBAN
  RegisterNumber: 212223230145 
-```
+
 module pro(a,b,c,d,e,x,y,z);
 input a,b;
 output c,d,e,x,y,z;
@@ -90,5 +90,6 @@ endmodule
 
 
 **Result:**
+
 Hence ouput is got
 
