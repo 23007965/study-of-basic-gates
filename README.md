@@ -69,7 +69,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: P PARTHIBAN
  RegisterNumber: 212223230145 
 
-module pro(a,b,c,d,e,x,y,z);
+module proj(a,b,c,d,e,x,y,z);
 input a,b;
 output c,d,e,x,y,z;
 and(c,a,b);
@@ -82,14 +82,21 @@ endmodule
 ```
 **Logic symbol & Truthtable**
 
-![WhatsApp Image 2024-03-14 at 16 25 00_6db0602f](https://github.com/23007965/study-of-basic-gates/assets/138971238/b4c9259e-a40b-4ad5-9d8f-3675677dd232)
+![image](https://github.com/23007965/study-of-basic-gates/assets/138971238/9742a557-dc98-48ce-90b2-a79a515a0821)
+
 
 **RTL realization Output:** 
 
-![WhatsApp Image 2024-03-14 at 16 25 00_e31b01f7](https://github.com/23007965/study-of-basic-gates/assets/138971238/4fc932ee-c2f0-4cd4-97d1-61a6824a9591)
+***RTL***
+
+![image](https://github.com/23007965/study-of-basic-gates/assets/138971238/52a2a2d9-0b23-4c48-8cf7-e53d72c41108)
+
+***OUTPUT***
+
+![Screenshot 2024-03-18 091231](https://github.com/23007965/study-of-basic-gates/assets/138971238/6c53826a-c575-4769-b8c1-bf8d5fdf1672)
 
 
 **Result:**
 
-Hence ouput is got
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
